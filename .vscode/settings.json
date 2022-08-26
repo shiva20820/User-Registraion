@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "UserRegistration",
+            "database": "userdata",
+            "username": "sqluser",
+            "password": "root"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Bandaru Shree Daksha\\Downloads\\mysql-connector-java-8.0.30.jar"
+    ]
+}
